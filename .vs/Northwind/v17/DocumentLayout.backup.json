@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FC069221-CB39-4061-B751-41A8976610D8}|Northwind.Sales.Backend.BusinessObjects\\Northwind.Sales.Backend.BusinessObjects.csproj|c:\\users\\kdami\\documents\\visualstudioprojects\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.businessobjects\\enums\\shippingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC069221-CB39-4061-B751-41A8976610D8}|Northwind.Sales.Backend.BusinessObjects\\Northwind.Sales.Backend.BusinessObjects.csproj|solutionrelative:northwind.sales.backend.businessobjects\\enums\\shippingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{278D9C00-CD77-4AEC-BC14-26498C0F0137}|Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj|c:\\users\\kdami\\documents\\visualstudioprojects\\tecnologias y desarrollo web\\northwind\\northwind.sales.entities\\dtos\\createorder\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{278D9C00-CD77-4AEC-BC14-26498C0F0137}|Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj|solutionrelative:northwind.sales.entities\\dtos\\createorder\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ShippingType.cs",
+              "DocumentMoniker": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\Northwind.Sales.Backend.BusinessObjects\\Enums\\ShippingType.cs",
+              "RelativeDocumentMoniker": "Northwind.Sales.Backend.BusinessObjects\\Enums\\ShippingType.cs",
+              "ToolTip": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\Northwind.Sales.Backend.BusinessObjects\\Enums\\ShippingType.cs",
+              "RelativeToolTip": "Northwind.Sales.Backend.BusinessObjects\\Enums\\ShippingType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:59:44.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CreateOrderDto.cs",
               "DocumentMoniker": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDto.cs",
               "RelativeDocumentMoniker": "Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDto.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CreateOrderDetailDto.cs",
               "DocumentMoniker": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDto.cs",
               "RelativeDocumentMoniker": "Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetailDto.cs",
