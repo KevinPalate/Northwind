@@ -1,7 +1,6 @@
 ﻿namespace Northwind.Sales.Entities.Dtos.CreateOrder;
 #region Primary constructor c# 12
-public class CreateOrderDto(string customer, string shipAddress, string shipCity, string shipCountry, string shipPostalCode
-
+public class CreateOrderDto(string customer, string shipAddress, string shipCity, string shipCountry, string shipPostalCode,
 IEnumerable<CreateOrderDetailDto> orderDetails)
 {
     public string CustomerId => customer;

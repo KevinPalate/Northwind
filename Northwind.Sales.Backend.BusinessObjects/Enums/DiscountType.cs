@@ -1,5 +1,5 @@
 ﻿namespace Northwind.Sales.Backend.BusinessObjects.Enums;
-public enum ShippingType
+public enum DiscountType
 {
-    Sea, Air, rail, Road
+    Flat, Percentage
 }
