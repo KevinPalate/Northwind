@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9211111-60E3-42FA-9140-BBC2E806D705}|Northwind.Sales.Backend.BusinessUseCases\\Northwind.Sales.Backend.BusinessUseCases.csproj|c:\\users\\kdami\\documents\\visualstudioprojects\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.businessusecases\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9211111-60E3-42FA-9140-BBC2E806D705}|Northwind.Sales.Backend.BusinessUseCases\\Northwind.Sales.Backend.BusinessUseCases.csproj|solutionrelative:northwind.sales.backend.businessusecases\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC069221-CB39-4061-B751-41A8976610D8}|Northwind.Sales.Backend.BusinessObjects\\Northwind.Sales.Backend.BusinessObjects.csproj|c:\\users\\kdami\\documents\\visualstudioprojects\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.businessobjects\\interfaces\\repositories\\icommandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC069221-CB39-4061-B751-41A8976610D8}|Northwind.Sales.Backend.BusinessObjects\\Northwind.Sales.Backend.BusinessObjects.csproj|solutionrelative:northwind.sales.backend.businessobjects\\interfaces\\repositories\\icommandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC069221-CB39-4061-B751-41A8976610D8}|Northwind.Sales.Backend.BusinessObjects\\Northwind.Sales.Backend.BusinessObjects.csproj|c:\\users\\kdami\\documents\\visualstudioprojects\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.businessobjects\\aggreagtes\\orderaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC069221-CB39-4061-B751-41A8976610D8}|Northwind.Sales.Backend.BusinessObjects\\Northwind.Sales.Backend.BusinessObjects.csproj|solutionrelative:northwind.sales.backend.businessobjects\\aggreagtes\\orderaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC069221-CB39-4061-B751-41A8976610D8}|Northwind.Sales.Backend.BusinessObjects\\Northwind.Sales.Backend.BusinessObjects.csproj|c:\\users\\kdami\\documents\\visualstudioprojects\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.businessobjects\\interfaces\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC069221-CB39-4061-B751-41A8976610D8}|Northwind.Sales.Backend.BusinessObjects\\Northwind.Sales.Backend.BusinessObjects.csproj|solutionrelative:northwind.sales.backend.businessobjects\\interfaces\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC069221-CB39-4061-B751-41A8976610D8}|Northwind.Sales.Backend.BusinessObjects\\Northwind.Sales.Backend.BusinessObjects.csproj|c:\\users\\kdami\\documents\\visualstudioprojects\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.businessobjects\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC069221-CB39-4061-B751-41A8976610D8}|Northwind.Sales.Backend.BusinessObjects\\Northwind.Sales.Backend.BusinessObjects.csproj|solutionrelative:northwind.sales.backend.businessobjects\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC069221-CB39-4061-B751-41A8976610D8}|Northwind.Sales.Backend.BusinessObjects\\Northwind.Sales.Backend.BusinessObjects.csproj|c:\\users\\kdami\\documents\\visualstudioprojects\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.businessobjects\\interfaces\\createorder\\icreateorderinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC069221-CB39-4061-B751-41A8976610D8}|Northwind.Sales.Backend.BusinessObjects\\Northwind.Sales.Backend.BusinessObjects.csproj|solutionrelative:northwind.sales.backend.businessobjects\\interfaces\\createorder\\icreateorderinputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC069221-CB39-4061-B751-41A8976610D8}|Northwind.Sales.Backend.BusinessObjects\\Northwind.Sales.Backend.BusinessObjects.csproj|c:\\users\\kdami\\documents\\visualstudioprojects\\tecnologias y desarrollo web\\northwind\\northwind.sales.backend.businessobjects\\interfaces\\createorder\\icreateorderoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC069221-CB39-4061-B751-41A8976610D8}|Northwind.Sales.Backend.BusinessObjects\\Northwind.Sales.Backend.BusinessObjects.csproj|solutionrelative:northwind.sales.backend.businessobjects\\interfaces\\createorder\\icreateorderoutputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\Northwind.Sales.Backend.BusinessObjects\\Interfaces\\Common\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Northwind.Sales.Backend.BusinessObjects\\Interfaces\\Common\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\Northwind.Sales.Backend.BusinessObjects\\Interfaces\\Common\\IUnitOfWork.cs",
+              "RelativeToolTip": "Northwind.Sales.Backend.BusinessObjects\\Interfaces\\Common\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:45:40.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICreateOrderInputPort.cs",
+              "DocumentMoniker": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\Northwind.Sales.Backend.BusinessObjects\\Interfaces\\CreateOrder\\ICreateOrderInputPort.cs",
+              "RelativeDocumentMoniker": "Northwind.Sales.Backend.BusinessObjects\\Interfaces\\CreateOrder\\ICreateOrderInputPort.cs",
+              "ToolTip": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\Northwind.Sales.Backend.BusinessObjects\\Interfaces\\CreateOrder\\ICreateOrderInputPort.cs",
+              "RelativeToolTip": "Northwind.Sales.Backend.BusinessObjects\\Interfaces\\CreateOrder\\ICreateOrderInputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:19:37.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\Northwind.Sales.Backend.BusinessObjects\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Northwind.Sales.Backend.BusinessObjects\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\Northwind.Sales.Backend.BusinessObjects\\GlobalUsings.cs",
+              "RelativeToolTip": "Northwind.Sales.Backend.BusinessObjects\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:46:18.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICommandsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\Northwind.Sales.Backend.BusinessObjects\\Interfaces\\Repositories\\ICommandsRepository.cs",
+              "RelativeDocumentMoniker": "Northwind.Sales.Backend.BusinessObjects\\Interfaces\\Repositories\\ICommandsRepository.cs",
+              "ToolTip": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\Northwind.Sales.Backend.BusinessObjects\\Interfaces\\Repositories\\ICommandsRepository.cs",
+              "RelativeToolTip": "Northwind.Sales.Backend.BusinessObjects\\Interfaces\\Repositories\\ICommandsRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:32:34.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\Northwind.Sales.Backend.BusinessObjects\\Aggreagtes\\OrderAggregate.cs",
+              "RelativeDocumentMoniker": "Northwind.Sales.Backend.BusinessObjects\\Aggreagtes\\OrderAggregate.cs",
+              "ToolTip": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\Northwind.Sales.Backend.BusinessObjects\\Aggreagtes\\OrderAggregate.cs",
+              "RelativeToolTip": "Northwind.Sales.Backend.BusinessObjects\\Aggreagtes\\OrderAggregate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:25:38.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\Northwind.Sales.Backend.BusinessUseCases\\Class1.cs",
+              "RelativeDocumentMoniker": "Northwind.Sales.Backend.BusinessUseCases\\Class1.cs",
+              "ToolTip": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\Northwind.Sales.Backend.BusinessUseCases\\Class1.cs",
+              "RelativeToolTip": "Northwind.Sales.Backend.BusinessUseCases\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:01:04.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICreateOrderOutputPort.cs",
+              "DocumentMoniker": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\Northwind.Sales.Backend.BusinessObjects\\Interfaces\\CreateOrder\\ICreateOrderOutputPort.cs",
+              "RelativeDocumentMoniker": "Northwind.Sales.Backend.BusinessObjects\\Interfaces\\CreateOrder\\ICreateOrderOutputPort.cs",
+              "ToolTip": "C:\\Users\\kdami\\Documents\\VisualStudioProjects\\Tecnologias y Desarrollo Web\\Northwind\\Northwind.Sales.Backend.BusinessObjects\\Interfaces\\CreateOrder\\ICreateOrderOutputPort.cs",
+              "RelativeToolTip": "Northwind.Sales.Backend.BusinessObjects\\Interfaces\\CreateOrder\\ICreateOrderOutputPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:44:58.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
