@@ -41,3 +41,4 @@ C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\ob
 C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.pdb
 C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.genruntimeconfig.cache
 C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.DataContext.EFCore.dll
+C:\Users\kdami\Documents\Northwind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.sourcelink.json

@@ -31,3 +31,4 @@ C:\Users\kdami\Documents\NorthWind\NorthWind.FrontEnd\obj\Debug\net8.0\refint\No
 C:\Users\kdami\Documents\NorthWind\NorthWind.FrontEnd\obj\Debug\net8.0\NorthWind.FrontEnd.pdb
 C:\Users\kdami\Documents\NorthWind\NorthWind.FrontEnd\obj\Debug\net8.0\NorthWind.FrontEnd.genruntimeconfig.cache
 C:\Users\kdami\Documents\NorthWind\NorthWind.FrontEnd\obj\Debug\net8.0\ref\NorthWind.FrontEnd.dll
+C:\Users\kdami\Documents\Northwind\NorthWind.FrontEnd\obj\Debug\net8.0\NorthWind.FrontEnd.sourcelink.json

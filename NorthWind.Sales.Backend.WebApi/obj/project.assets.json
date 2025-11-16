@@ -3505,9 +3505,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.WebApi\\NorthWind.Sales.Backend.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Backend.WebApi\\NorthWind.Sales.Backend.WebApi.csproj",
       "projectName": "NorthWind.Sales.Backend.WebApi",
-      "projectPath": "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.WebApi\\NorthWind.Sales.Backend.WebApi.csproj",
+      "projectPath": "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Backend.WebApi\\NorthWind.Sales.Backend.WebApi.csproj",
       "packagesPath": "C:\\Users\\kdami\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.WebApi\\obj\\",
       "projectStyle": "PackageReference",
@@ -3531,23 +3531,23 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj": {
-              "projectPath": "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj"
+            "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj": {
+              "projectPath": "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj"
             },
-            "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj": {
-              "projectPath": "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj"
+            "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj": {
+              "projectPath": "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj"
             },
-            "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.Ioc\\NorthWind.Sales.Backend.Ioc.csproj": {
-              "projectPath": "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.Ioc\\NorthWind.Sales.Backend.Ioc.csproj"
+            "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Backend.Ioc\\NorthWind.Sales.Backend.Ioc.csproj": {
+              "projectPath": "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Backend.Ioc\\NorthWind.Sales.Backend.Ioc.csproj"
             },
-            "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj": {
-              "projectPath": "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj"
+            "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj": {
+              "projectPath": "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Backend.Presenters\\NorthWind.Sales.Backend.Presenters.csproj"
             },
-            "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj": {
-              "projectPath": "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj"
+            "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj": {
+              "projectPath": "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Backend.Repositories\\NorthWind.Sales.Backend.Repositories.csproj"
             },
-            "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj": {
-              "projectPath": "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj"
+            "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj": {
+              "projectPath": "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj"
             }
           }
         }

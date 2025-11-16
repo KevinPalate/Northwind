@@ -3,113 +3,158 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Facturación - Ventana Principal</title>
+    <title>Sistema de Facturación</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
     <!-- =======================
-         Ventana Principal: Facturación
-         ======================= -->
-    <div class="facturacion">
-        <h1>Facturación</h1>
+         NAVBAR SUPERIOR
+    ======================== -->
+    <nav class="navbar">
+        <ul>
+            <li><a href="#" id="navDashboard">Dashboard</a></li>
+            <li><a href="#" id="navFacturacion">Facturación</a></li>
+            <li><a href="#" id="navVerFacturas">Ver Facturas</a></li>
+        </ul>
 
-        <!-- Maestro: Cliente -->
-        <div class="maestro-cliente">
-            <label for="clienteNombre">Cliente:</label>
-
-            <!-- ID del cliente (solo lectura, NO editable) -->
-            <input type="text" id="clienteId" placeholder="ID del cliente" readonly>
-
-            <!-- Nombre del cliente (solo lectura) -->
-            <input type="text" id="clienteNombre" placeholder="Nombre del cliente" readonly>
-
-            <!-- Email del cliente (solo lectura) -->
-            <input type="text" id="clienteEmail" placeholder="Email del cliente" readonly>
-
-            <!-- Botón de búsqueda -->
-            <button id="btnBuscarCliente">Buscar Cliente</button>
-        </div>
-
-        <!-- Información de envío ASKED BY THE API -->
-        <div class="envio-container">
-            <h3>Datos de Envío</h3>
-
-            <label>Dirección:</label>
-            <input type="text" id="shipAddress" placeholder="Dirección de envío" required>
-
-            <label>Ciudad:</label>
-            <input type="text" id="shipCity" placeholder="Ciudad" required>
-
-            <label>País:</label>
-            <input type="text" id="shipCountry" placeholder="País" required>
-
-            <label>Código Postal:</label>
-            <input type="text" id="shipPostalCode" placeholder="Código Postal" required>
-        </div>
-
-        <!-- Detalle: Productos -->
-        <div class="detalle-productos">
-            <h3>Productos</h3>
-            <table id="tablaProductos">
-                <thead>
-                    <tr>
-                        <th>Producto</th>
-                        <th>Precio</th>
-                        <th>Cantidad</th>
-                        <th>Subtotal</th>
-                        <th>Acción</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <!-- Filas dinámicas -->
-                </tbody>
-            </table>
-            <button id="btnAgregarProducto">Agregar Producto</button>
-            <!-- Panel auxiliar para agregar producto -->
-            <div id="panelProducto" class="panel-aux" style="display:none;">
-                <h3>Agregar Producto</h3>
-
-                <label>ID Producto:</label>
-                <input type="text" id="auxProductId" readonly>
-
-                <label>Nombre:</label>
-                <input type="text" id="auxProductName" readonly>
-
-                <label>Precio Unitario:</label>
-                <input type="text" id="auxUnitPrice" readonly>
-
-                <label>Stock Disponible:</label>
-                <input type="text" id="auxStock" readonly>
-
-                <label>Cantidad:</label>
-                <input type="number" id="auxQuantity" min="1" value="1">
-
-                <button id="btnConfirmarAgregar">Agregar a la tabla</button>
-            </div>
-        </div>
-
-        <!-- Total -->
-        <div class="total-factura">
-            <strong>Total: $<span id="totalFactura">0.00</span></strong>
-        </div>
-    </div>
+        <button class="btn-nueva-orden" id="btnNuevaOrden">🛒 Nueva Orden 📦</button>
+    </nav>
 
     <!-- =======================
-         Modal 1: Consulta de Clientes
-         ======================= -->
+         SECCIÓN: DASHBOARD
+    ======================== -->
+    <section id="dashboard" class="seccion">
+        <h1>Bienvenido al Sistema de Facturación</h1>
+        <p>Seleccione una opción en el menú para comenzar.</p>
+    </section>
+
+    <!-- =======================
+         SECCIÓN: FACTURACIÓN
+    ======================== -->
+    <section id="facturacion" class="seccion" style="display:none;">
+        <div class="facturacion">
+            <h1>Facturación</h1>
+
+            <!-- Maestro Cliente -->
+            <div class="maestro-cliente">
+                <h3>Cliente</h3>
+                <label for="clienteNombre">Cliente:</label>
+
+                <input type="text" id="clienteId" placeholder="Cédula del cliente" readonly>
+                <input type="text" id="clienteNombre" placeholder="Nombres del cliente" readonly>
+                <input type="text" id="clienteEmail" placeholder="Email del cliente" readonly>
+
+                <button id="btnBuscarCliente">🔍 Buscar Cliente</button>
+            </div>
+
+            <!-- Datos de envío -->
+            <div class="envio-container">
+                <h3>Datos de Envío</h3>
+
+                <label>Dirección:</label>
+                <input type="text" id="shipAddress" style="width: 300px;" placeholder="Ej: Av. Amazonas 1234">
+
+                <label>Ciudad:</label>
+                <input type="text" id="shipCity" placeholder="Ej: Pelileo">
+
+                <label>País:</label>
+                <input type="text" id="shipCountry" placeholder="Ej: Ecuador">
+
+                <label>Código Postal:</label>
+                <input type="text" id="shipPostalCode" placeholder="Ej: 170143">
+            </div>
+
+            <!-- Productos -->
+            <div class="detalle-productos">
+                <h3>Productos</h3>
+
+                <table id="tablaProductos">
+                    <thead>
+                        <tr>
+                            <th>Producto</th>
+                            <th>Precio</th>
+                            <th>Cantidad</th>
+                            <th>Subtotal</th>
+                            <th>Acción</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+
+                <div class="boton-container">
+                    <button id="btnAgregarProducto">🏷️ Agregar Producto</button>
+                </div>
+
+                <!-- Panel Auxiliar -->
+                <div id="panelProducto" class="panel-aux" style="display:none;">
+                    <h3>Agregar Producto</h3>
+
+                    <label>ID Producto:</label>
+                    <input type="text" id="auxProductId" style="width: 50px;" readonly>
+
+                    <label>Nombre:</label>
+                    <input type="text" id="auxProductName" style="width: 300px;" readonly>
+
+                    <label>Precio Unitario:</label>
+                    <input type="text" id="auxUnitPrice" style="width: 50px;" readonly>
+
+                    <label>Stock Disponible:</label>
+                    <input type="text" id="auxStock" style="width: 50px;" readonly>
+
+                    <label>Cantidad:</label>
+                    <input type="number" id="auxQuantity" min="1" value="1" style="width: 50px;">
+
+                    <button id="btnConfirmarAgregar">🏷️ Agregar a la tabla</button>
+                </div>
+            </div>
+
+            <div class="total-factura">
+                <strong>Total: $<span id="totalFactura">0.00</span></strong>
+            </div>
+
+            <div class="boton-container">
+                <button id="btnGuardar">🧾 Guardar Orden</button>
+            </div>
+    </section>
+
+    <!-- =======================
+         SECCIÓN: VER FACTURAS
+    ======================== -->
+    <section id="verFacturas" class="seccion" style="display:none;">
+        <h1>Facturas Registradas</h1>
+
+        <input type="text" id="buscarFactura" placeholder="Buscar por ID, Cédula o Ciudad">
+
+        <table id="tablaFacturas">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Cliente</th>
+                    <th>Ciudad</th>
+                    <th>Total</th>
+                    <th>Acción</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </section>
+
+    <!-- =======================
+         MODAL CLIENTES
+    ======================== -->
     <div id="modalClientes" class="modal">
         <div class="modal-content">
             <span class="close" id="cerrarModalClientes">&times;</span>
             <h2>Buscar Cliente</h2>
-            <input type="text" id="buscarCliente" placeholder="Nombre, Apellido, Email o Cedula">
-            <button onclick="buscarClientes()">Buscar</button>
-            <button onclick="verTodosClientes()">Ver todos</button>
+            <input type="text" id="buscarCliente" placeholder="Buscar por Cédula, Nombre, Apellido o Email">
+            <button id="btnBuscarClienteModal">🔍 Buscar</button>
+            <button id="btnVerTodosClientes">📋 Ver todos</button>
 
             <table id="tablaClientes">
                 <thead>
                     <tr>
-                        <th>ID</th>
+                        <th>Cédula</th>
                         <th>Nombres</th>
                         <th>Dirección</th>
                         <th>Email</th>
@@ -123,18 +168,16 @@
     </div>
 
     <!-- =======================
-         Modal 2: Consulta de Productos
-         ======================= -->
+         MODAL PRODUCTOS
+    ======================== -->
     <div id="modalProductos" class="modal">
         <div class="modal-content">
             <span class="close" id="cerrarModalProductos">&times;</span>
             <h2>Búsqueda de Productos</h2>
 
-            <div class="busqueda-productos">
-                <input type="text" id="buscarProducto" placeholder="Nombre o ID">
-                <button onclick="buscarProductos()">Buscar</button>
-                <button onclick="verTodosProductos()">Ver Todos</button>
-            </div>
+            <input type="text" id="buscarProducto" placeholder="Buscar por ID o Nombre">
+            <button id="btnBuscarProductoModal">🔍 Buscar</button>
+            <button id="btnVerTodosProductos">📋 Ver Todos</button>
 
             <table id="tablaProductosModal">
                 <thead>
@@ -143,7 +186,7 @@
                         <th>Nombre</th>
                         <th>Precio</th>
                         <th>Stock</th>
-                        <th>Seleccionar</th>
+                        <th>Acción</th>
                     </tr>
                 </thead>
                 <tbody></tbody>
@@ -151,9 +194,42 @@
         </div>
     </div>
 
-    <button id="btnGuardar" onclick="guardarOrden()">Guardar Orden</button>
+    <!-- =======================
+         MODAL DETALLE FACTURA
+    ======================= -->
+    <div id="modalFactura" class="modal">
+        <div class="modal-content">
+            <span class="close" id="cerrarModalFactura">&times;</span>
+            <h2>Detalle de Factura</h2>
 
+            <div id="infoFactura">
+                <p><strong>Cliente:</strong> <span id="factCliente"></span></p>
+                <p><strong>Dirección:</strong> <span id="factDireccion"></span></p>
+                <p><strong>Ciudad:</strong> <span id="factCiudad"></span></p>
+                <p><strong>País:</strong> <span id="factPais"></span></p>
+                <p><strong>Fecha:</strong> <span id="factFecha"></span></p>
+            </div>
 
-    <script src="js/JavaScript.js"></script>
+            <table id="tablaDetalleFactura">
+                <thead>
+                    <tr>
+                        <th>Producto</th>
+                        <th>Precio Unitario</th>
+                        <th>Cantidad</th>
+                        <th>Subtotal</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+
+            <div style="text-align:right; margin-top:10px;">
+                <strong>Total: $<span id="factTotal">0.00</span></strong>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/app.js"></script>
+    <script src="js/validaciones.js"></script>
+    <script src="js/facturas.js"></script>
 </body>
 </html>

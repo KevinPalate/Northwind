@@ -29,3 +29,4 @@ C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\D
 C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.BusinessObjects.dll
 C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
 C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\Users\kdami\Documents\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.sourcelink.json

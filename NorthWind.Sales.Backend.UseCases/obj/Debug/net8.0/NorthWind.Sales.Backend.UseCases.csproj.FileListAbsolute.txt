@@ -33,3 +33,4 @@ C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\ne
 C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.UseCases.dll
 C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.pdb
 C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.UseCases.dll
+C:\Users\kdami\Documents\Northwind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.sourcelink.json

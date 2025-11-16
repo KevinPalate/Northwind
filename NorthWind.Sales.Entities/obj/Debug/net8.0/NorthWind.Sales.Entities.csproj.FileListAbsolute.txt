@@ -21,3 +21,4 @@ C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\Nor
 C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\refint\NorthWind.Sales.Entities.dll
 C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.pdb
 C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\ref\NorthWind.Sales.Entities.dll
+C:\Users\kdami\Documents\Northwind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.sourcelink.json

@@ -12,7 +12,7 @@ using NorthWind.Sales.Backend.DataContext.EFCore.DataContexts;
 namespace NorthWind.Sales.Backend.DataContext.EFCore.Migrations
 {
     [DbContext(typeof(NorthWindContext))]
-    [Migration("20251116002348_InitialCreate")]
+    [Migration("20251116070049_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />

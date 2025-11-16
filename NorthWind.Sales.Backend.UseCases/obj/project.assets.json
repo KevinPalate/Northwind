@@ -98,9 +98,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj",
+      "projectUniqueName": "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj",
       "projectName": "NorthWind.Sales.Backend.UseCases",
-      "projectPath": "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj",
+      "projectPath": "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Backend.UseCases\\NorthWind.Sales.Backend.UseCases.csproj",
       "packagesPath": "C:\\Users\\kdami\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.UseCases\\obj\\",
       "projectStyle": "PackageReference",
@@ -124,8 +124,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
-              "projectPath": "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
+            "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
+              "projectPath": "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
             }
           }
         }

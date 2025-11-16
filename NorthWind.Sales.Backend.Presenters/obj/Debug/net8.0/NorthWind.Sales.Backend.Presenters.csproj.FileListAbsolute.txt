@@ -33,3 +33,4 @@ C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\
 C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.Presenters.dll
 C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.pdb
 C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.Presenters.dll
+C:\Users\kdami\Documents\Northwind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.sourcelink.json

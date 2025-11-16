@@ -105,3 +105,4 @@ C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.WebApi\obj\Debug\net8
 C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.WebApi\obj\Debug\net8.0\NorthWind.Sales.Backend.WebApi.pdb
 C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.WebApi\obj\Debug\net8.0\NorthWind.Sales.Backend.WebApi.genruntimeconfig.cache
 C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.WebApi\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.WebApi.dll
+C:\Users\kdami\Documents\Northwind\NorthWind.Sales.Backend.WebApi\obj\Debug\net8.0\NorthWind.Sales.Backend.WebApi.sourcelink.json
