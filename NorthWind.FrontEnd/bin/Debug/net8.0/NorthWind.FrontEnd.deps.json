@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NorthWind.FrontEnd/1.0.0": {
+        "runtime": {
+          "NorthWind.FrontEnd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NorthWind.FrontEnd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

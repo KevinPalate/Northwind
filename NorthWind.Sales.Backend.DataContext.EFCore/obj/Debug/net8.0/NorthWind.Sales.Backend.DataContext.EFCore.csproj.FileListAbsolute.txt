@@ -1,0 +1,43 @@
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.deps.json
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.pdb
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.AssemblyInfoInputs.cache
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.AssemblyInfo.cs
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.csproj.CoreCompileInputs.cache
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.sourcelink.json
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.DataContext.EFCore.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.pdb
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.DataContext.EFCore.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.runtimeconfig.json
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Backend.Repositories.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Backend.Repositories.pdb
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.csproj.AssemblyReference.cache
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWin.0AC1A398.Up2Date
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.genruntimeconfig.cache
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.deps.json
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.runtimeconfig.json
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.pdb
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Backend.Repositories.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Backend.Repositories.pdb
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.csproj.AssemblyReference.cache
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.AssemblyInfoInputs.cache
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.AssemblyInfo.cs
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWin.0AC1A398.Up2Date
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.DataContext.EFCore.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.pdb
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.genruntimeconfig.cache
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.DataContext.EFCore\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.DataContext.EFCore.dll

@@ -1,0 +1,23 @@
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Entities\bin\Debug\net8.0\NorthWind.Sales.Entities.deps.json
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Entities\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Entities\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.AssemblyInfoInputs.cache
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.AssemblyInfo.cs
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.csproj.CoreCompileInputs.cache
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.sourcelink.json
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\refint\NorthWind.Sales.Entities.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.pdb
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\ref\NorthWind.Sales.Entities.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Entities\bin\Debug\net8.0\NorthWind.Sales.Entities.deps.json
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Entities\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Entities\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.AssemblyInfoInputs.cache
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.AssemblyInfo.cs
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.csproj.CoreCompileInputs.cache
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\refint\NorthWind.Sales.Entities.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.pdb
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\ref\NorthWind.Sales.Entities.dll

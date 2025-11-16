@@ -1,0 +1,35 @@
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Controllers\bin\Debug\net8.0\NorthWind.Sales.Backend.Controllers.deps.json
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Controllers\bin\Debug\net8.0\NorthWind.Sales.Backend.Controllers.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Controllers\bin\Debug\net8.0\NorthWind.Sales.Backend.Controllers.pdb
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Controllers\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Controllers\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Controllers\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Controllers\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\NorthWind.Sales.Backend.Controllers.csproj.AssemblyReference.cache
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\NorthWind.Sales.Backend.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\NorthWind.Sales.Backend.Controllers.AssemblyInfoInputs.cache
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\NorthWind.Sales.Backend.Controllers.AssemblyInfo.cs
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\NorthWind.Sales.Backend.Controllers.csproj.CoreCompileInputs.cache
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\NorthWind.Sales.Backend.Controllers.sourcelink.json
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\NorthWin.F1357F35.Up2Date
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\NorthWind.Sales.Backend.Controllers.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.Controllers.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\NorthWind.Sales.Backend.Controllers.pdb
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.Controllers.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Controllers\bin\Debug\net8.0\NorthWind.Sales.Backend.Controllers.deps.json
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Controllers\bin\Debug\net8.0\NorthWind.Sales.Backend.Controllers.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Controllers\bin\Debug\net8.0\NorthWind.Sales.Backend.Controllers.pdb
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Controllers\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Controllers\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Controllers\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Controllers\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\NorthWind.Sales.Backend.Controllers.csproj.AssemblyReference.cache
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\NorthWind.Sales.Backend.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\NorthWind.Sales.Backend.Controllers.AssemblyInfoInputs.cache
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\NorthWind.Sales.Backend.Controllers.AssemblyInfo.cs
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\NorthWind.Sales.Backend.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\NorthWin.F1357F35.Up2Date
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\NorthWind.Sales.Backend.Controllers.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.Controllers.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\NorthWind.Sales.Backend.Controllers.pdb
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Controllers\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.Controllers.dll

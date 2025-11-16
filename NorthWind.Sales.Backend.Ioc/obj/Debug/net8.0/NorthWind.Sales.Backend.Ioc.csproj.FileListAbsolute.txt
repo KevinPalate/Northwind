@@ -1,0 +1,33 @@
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Ioc\bin\Debug\net8.0\NorthWind.Sales.Backend.Ioc.deps.json
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Ioc\bin\Debug\net8.0\NorthWind.Sales.Backend.Ioc.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Ioc\bin\Debug\net8.0\NorthWind.Sales.Backend.Ioc.pdb
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\NorthWind.Sales.Backend.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\NorthWind.Sales.Backend.Ioc.AssemblyInfoInputs.cache
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\NorthWind.Sales.Backend.Ioc.AssemblyInfo.cs
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\NorthWind.Sales.Backend.Ioc.csproj.CoreCompileInputs.cache
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\NorthWind.Sales.Backend.Ioc.sourcelink.json
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\NorthWind.Sales.Backend.Ioc.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.Ioc.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\NorthWind.Sales.Backend.Ioc.pdb
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.Ioc.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\NorthWind.Sales.Backend.Ioc.csproj.AssemblyReference.cache
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\NorthWind.Sales.Backend.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\NorthWind.Sales.Backend.Ioc.AssemblyInfoInputs.cache
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\NorthWind.Sales.Backend.Ioc.AssemblyInfo.cs
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\NorthWind.Sales.Backend.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\NorthWind.Sales.Backend.Ioc.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.Ioc.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\NorthWind.Sales.Backend.Ioc.pdb
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\bin\Debug\net8.0\NorthWind.Sales.Backend.Ioc.deps.json
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\bin\Debug\net8.0\NorthWind.Sales.Backend.Ioc.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\bin\Debug\net8.0\NorthWind.Sales.Backend.Ioc.pdb
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\bin\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\bin\Debug\net8.0\NorthWind.Sales.Backend.Repositories.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\bin\Debug\net8.0\NorthWind.Sales.Backend.DataContext.EFCore.pdb
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\bin\Debug\net8.0\NorthWind.Sales.Backend.Repositories.pdb
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\NorthWin.88D39110.Up2Date
+C:\Users\kdami\Documents\NorthWind\NorthWind.Sales.Backend.Ioc\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.Ioc.dll

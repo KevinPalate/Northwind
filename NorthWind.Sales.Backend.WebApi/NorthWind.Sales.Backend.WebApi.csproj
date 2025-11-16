@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NorthWind.Sales.Backend.Controllers\NorthWind.Sales.Backend.Controllers.csproj" />
+    <ProjectReference Include="..\NorthWind.Sales.Backend.DataContext.EFCore\NorthWind.Sales.Backend.DataContext.EFCore.csproj" />
+    <ProjectReference Include="..\NorthWind.Sales.Backend.Ioc\NorthWind.Sales.Backend.Ioc.csproj" />
+    <ProjectReference Include="..\NorthWind.Sales.Backend.Presenters\NorthWind.Sales.Backend.Presenters.csproj" />
+    <ProjectReference Include="..\NorthWind.Sales.Backend.Repositories\NorthWind.Sales.Backend.Repositories.csproj" />
+    <ProjectReference Include="..\NorthWind.Sales.Backend.UseCases\NorthWind.Sales.Backend.UseCases.csproj" />
+  </ItemGroup>
+
+</Project>

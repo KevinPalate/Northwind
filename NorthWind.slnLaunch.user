@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "API+FrontEnd",
+    "Projects": [
+      {
+        "Path": "NorthWind.Sales.Backend.WebApi\\NorthWind.Sales.Backend.WebApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "NorthWind.FrontEnd\\NorthWind.FrontEnd.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
