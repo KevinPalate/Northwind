@@ -84,6 +84,26 @@
         }
       }
     },
+    "/GetNextOrderId": {
+      "get": {
+        "tags": [
+          "GetNextOrderIdController"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/GetOrders": {
       "get": {
         "tags": [

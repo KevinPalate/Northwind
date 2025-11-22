@@ -10,6 +10,7 @@ public static class DependencyContainer
         services.AddScoped<IGetCustomersOutputPort, GetCustomersPresenter>();
         services.AddScoped<IGetProductsOutputPort, GetProductsPresenter>();
         services.AddScoped<IGetOrdersOutputPort, GetOrdersPresenter>();
+        services.AddScoped<IGetNextOrderIdOutputPort, GetNextOrderIdPresenter>();
 
         // Retornar el contenedor de servicios
         return services;

@@ -331,7 +331,7 @@
         "projectName": "NorthWind.Sales.Entities",
         "projectPath": "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Entities\\NorthWind.Sales.Entities.csproj",
         "packagesPath": "C:\\Users\\kdami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kdami\\Documents\\NorthWind\\NorthWind.Sales.Entities\\obj\\",
+        "outputPath": "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.Sales.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

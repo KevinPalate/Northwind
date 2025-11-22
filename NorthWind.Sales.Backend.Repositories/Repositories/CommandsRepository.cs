@@ -19,7 +19,9 @@ internal class CommandsRepository(INorthWindSalesCommandDataContext context) : I
                 UnitPrice = d.UnitPrice 
             }).ToArray()); 
     }
-   
+
+    // Obtener el Id de la factura
+    public async Task<int> GetNextOrderIdAsync() => await context.GetNextOrderIdAsync();
 
     // Realizar la persistencia usando el Contenxto de Datos
     public async Task SaveChanges() => await context.SaveChangesAsync();    

@@ -68,6 +68,7 @@ public class Program
         app.UseGetCustomersController();
         app.UseGetProductsController();
         app.UseGetOrdersController();
+        app.UseGetNextIdOrderController();
 
 
         // Mapear controladores si los agregas después

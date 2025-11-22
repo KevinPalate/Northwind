@@ -30,6 +30,7 @@ public static class DependencyContainer
         services.AddScoped<IGetCustomersInputPort, GetCustomersInteractor>();
         services.AddScoped<IGetProductsInputPort, GetProductsInteractor>();
         services.AddScoped<IGetOrdersInputPort, GetOrdersInteractor>();
+        services.AddScoped<IGetNextOrderIdInputPort, GetNextOrderIdInteractor>();
 
         return services;
     }

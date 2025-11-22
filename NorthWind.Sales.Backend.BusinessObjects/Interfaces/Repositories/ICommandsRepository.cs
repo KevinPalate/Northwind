@@ -17,6 +17,7 @@ namespace NorthWind.Sales.Backend.BusinessObjects.Interfaces.Repositories;
 public interface ICommandsRepository : IUnitOfWork
 {
     Task CreateOrder(OrderAggregate order);
+    Task<int> GetNextOrderIdAsync();
     //Task InsertOrder(OrderAggregate order);
     //Task DeleteOrder(int idOrder);
     //Task UpdateOrder(OrderAggregate order);

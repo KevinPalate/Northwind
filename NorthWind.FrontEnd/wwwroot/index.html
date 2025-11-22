@@ -36,10 +36,15 @@
         <div class="facturacion">
             <h1>Facturación</h1>
 
+            <div class="factura-info">
+                <span><strong>ID Factura:</strong> <span id="facturaId">...</span></span>
+                <p><strong>Fecha:</strong> <span id="facturaFecha">---</span></p>
+                <p><strong>Hora:</strong> <span id="facturaHora">---</span></p>
+            </div>
+
             <!-- Maestro Cliente -->
             <div class="maestro-cliente">
-                <h3>Cliente</h3>
-                <label for="clienteNombre">Cliente:</label>
+                <strong>Cliente: </strong>
 
                 <input type="text" id="clienteId" placeholder="Cédula del cliente" readonly>
                 <input type="text" id="clienteNombre" placeholder="Nombres del cliente" readonly>
@@ -49,7 +54,7 @@
             </div>
 
             <!-- Datos de envío -->
-            <div class="envio-container">
+            <div class="envio-container" hidden>
                 <h3>Datos de Envío</h3>
 
                 <label>Dirección:</label>
@@ -67,56 +72,72 @@
 
             <!-- Productos -->
             <div class="detalle-productos">
-                <h3>Productos</h3>
-
-                <table id="tablaProductos">
-                    <thead>
-                        <tr>
-                            <th>Producto</th>
-                            <th>Precio</th>
-                            <th>Cantidad</th>
-                            <th>Subtotal</th>
-                            <th>Acción</th>
-                        </tr>
-                    </thead>
-                    <tbody></tbody>
-                </table>
-
-                <div class="boton-container">
-                    <button id="btnAgregarProducto">🏷️ Agregar Producto</button>
-                </div>
-
                 <!-- Panel Auxiliar -->
                 <div id="panelProducto" class="panel-aux" style="display:none;">
                     <h3>Agregar Producto</h3>
 
                     <label>ID Producto:</label>
-                    <input type="text" id="auxProductId" style="width: 50px;" readonly>
+                    <input type="text" id="auxProductId" readonly>
 
                     <label>Nombre:</label>
                     <input type="text" id="auxProductName" style="width: 300px;" readonly>
 
-                    <label>Precio Unitario:</label>
-                    <input type="text" id="auxUnitPrice" style="width: 50px;" readonly>
+                    <label>Precio Unitario (IVA 15%):</label>
+                    <input type="text" id="auxUnitPrice" readonly>
+
+                    <label hidden>Precio Base:</label>
+                    <input type="text" id="auxbasePrice" readonly hidden>
 
                     <label>Stock Disponible:</label>
-                    <input type="text" id="auxStock" style="width: 50px;" readonly>
+                    <input type="text" id="auxStock" readonly>
 
                     <label>Cantidad:</label>
-                    <input type="number" id="auxQuantity" min="1" value="1" style="width: 50px;">
+                    <input type="number" id="auxQuantity" min="1" value="1">
 
                     <button id="btnConfirmarAgregar">🏷️ Agregar a la tabla</button>
                 </div>
+
+                <div class="productos-header">
+                    <h3>Productos</h3>
+                    <div class="boton-container">
+                        <button id="btnAgregarProducto">🏷️ Buscar Producto</button>
+                    </div>
+                </div>
+
+
+
+                <table id="tablaProductos">
+                    <thead>
+                        <tr>
+                            <th>ID Producto</th>
+                            <th>Producto</th>
+                            <th>Precio (IVA 15%)</th>
+                            <th hidden>Precio base</th>
+                            <th>Cantidad</th>
+                            <th>Subtotal (IVA 15%)</th>
+                            <th hidden>Subtotal Base</th>
+                            <th>Acción</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
             </div>
 
             <div class="total-factura">
+                <strong>Subtotal: $<span id="subTotalFactura">0.00</span></strong><br>
+                <strong>IVA: $<span id="ivaFactura">0.00</span></strong><br>
                 <strong>Total: $<span id="totalFactura">0.00</span></strong>
             </div>
+
+                <!--<div class="total-factura">
+            <strong>Total: $<span id="totalFactura">0.00</span></strong>
+        </div>-->
 
             <div class="boton-container">
                 <button id="btnGuardar">🧾 Guardar Orden</button>
             </div>
-    </section>
+        </div>
+</section>
 
     <!-- =======================
          SECCIÓN: VER FACTURAS
@@ -124,15 +145,23 @@
     <section id="verFacturas" class="seccion" style="display:none;">
         <h1>Facturas Registradas</h1>
 
-        <input type="text" id="buscarFactura" placeholder="Buscar por ID, Cédula o Ciudad">
+        <div class="buscadorInteligente">
+            <input type="text" id="buscarFactura" placeholder="Buscar por ID, Cédula o Ciudad">
+        </div>
+
+        <div class="paginacion-facturas">
+            <button id="btnAnteriorFactura">Anterior</button>
+            <span id="paginaActualFactura">Página 1</span>
+            <button id="btnSiguienteFactura">Siguiente</button>
+        </div>
 
         <table id="tablaFacturas">
             <thead>
                 <tr>
-                    <th>ID</th>
+                    <th>ID Factura</th>
                     <th>Cliente</th>
                     <th>Ciudad</th>
-                    <th>Total</th>
+                    <th>Total ($)</th>
                     <th>Acción</th>
                 </tr>
             </thead>
@@ -147,9 +176,18 @@
         <div class="modal-content">
             <span class="close" id="cerrarModalClientes">&times;</span>
             <h2>Buscar Cliente</h2>
-            <input type="text" id="buscarCliente" placeholder="Buscar por Cédula, Nombre, Apellido o Email">
-            <button id="btnBuscarClienteModal">🔍 Buscar</button>
-            <button id="btnVerTodosClientes">📋 Ver todos</button>
+            <div class="buscadorInteligente">
+                <input type="text" id="buscarCliente" placeholder="Buscar por Cédula, Nombre, Apellido o Email">
+            </div>
+
+            <button hidden id="btnBuscarClienteModal">🔍 Buscar</button>
+            <button hidden id="btnVerTodosClientes">📋 Ver todos</button>
+
+            <div class="paginacion-clientes">
+                <button id="btnAnteriorCliente">⬅ Anterior</button>
+                <span id="paginaActualCliente">Página 1</span>
+                <button id="btnSiguienteCliente">Siguiente ➡</button>
+            </div>
 
             <table id="tablaClientes">
                 <thead>
@@ -174,10 +212,17 @@
         <div class="modal-content">
             <span class="close" id="cerrarModalProductos">&times;</span>
             <h2>Búsqueda de Productos</h2>
+            <div class="buscadorInteligente">
+                <input type="text" id="buscarProducto" placeholder="Buscar por ID o Nombre">
+            </div>
+            <button hidden id="btnBuscarProductoModal">🔍 Buscar</button>
+            <button hidden id="btnVerTodosProductos">📋 Ver Todos</button>
 
-            <input type="text" id="buscarProducto" placeholder="Buscar por ID o Nombre">
-            <button id="btnBuscarProductoModal">🔍 Buscar</button>
-            <button id="btnVerTodosProductos">📋 Ver Todos</button>
+            <div class="paginacion-productos">
+                <button id="btnAnteriorProducto">⬅ Anterior</button>
+                <span id="paginaActualProducto">Página 1</span>
+                <button id="btnSiguienteProducto">Siguiente ➡</button>
+            </div>
 
             <table id="tablaProductosModal">
                 <thead>
@@ -198,36 +243,48 @@
          MODAL DETALLE FACTURA
     ======================= -->
     <div id="modalFactura" class="modal">
-        <div class="modal-content">
+        <div class="modal-content" style="height: auto;>
             <span class="close" id="cerrarModalFactura">&times;</span>
             <h2>Detalle de Factura</h2>
 
             <div id="infoFactura">
+                <p><strong>ID Factura:</strong> <span id="idFact"></span></p>
+                <p><strong>Fecha Emisión:</strong> <span id="factFecha"></span></p>
                 <p><strong>Cliente:</strong> <span id="factCliente"></span></p>
+                <p><strong>CI/RUC:</strong> <span id="factClienteCI"></span></p>
+                <p><strong>Email:</strong> <span id="factClienteEmail"></span></p>
+                <p><strong>Télefono:</strong> <span id="factClienteTel"></span></p>
                 <p><strong>Dirección:</strong> <span id="factDireccion"></span></p>
-                <p><strong>Ciudad:</strong> <span id="factCiudad"></span></p>
-                <p><strong>País:</strong> <span id="factPais"></span></p>
-                <p><strong>Fecha:</strong> <span id="factFecha"></span></p>
+                <p hidden><strong>Ciudad:</strong> <span id="factCiudad"></span></p>
+                <p hidden><strong>País:</strong> <span id="factPais"></span></p>
+                <p hidden><strong>Código postal:</strong> <span id="factPostal"></span></p>
             </div>
 
             <table id="tablaDetalleFactura">
                 <thead>
                     <tr>
+                        <th>ID Producto</th>
                         <th>Producto</th>
-                        <th>Precio Unitario</th>
+                        <th>Precio Unitario (IVA 15%)</th>
                         <th>Cantidad</th>
-                        <th>Subtotal</th>
+                        <th>Subtotal (IVA 15%)</th>
+                        <th hidden>Precio Unitario Base</th>
+                        <th hidden>Subtotal Base</th>
                     </tr>
                 </thead>
                 <tbody></tbody>
             </table>
 
             <div style="text-align:right; margin-top:10px;">
+                <strong>Subtotal: $<span id="factSubTotal">0.00</span></strong><br/>
+                <strong>IVA (15%): $<span id="factTotalIva">0.00</span></strong><br />
                 <strong>Total: $<span id="factTotal">0.00</span></strong>
             </div>
         </div>
     </div>
 
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.26.3/dist/sweetalert2.all.min.js" integrity="sha256-1cQTGybAoN6zAsKD5JCu5ui/YwHtGj1LYrRpN5uIsyA=" crossorigin="anonymous"></script>
     <script src="js/app.js"></script>
     <script src="js/validaciones.js"></script>
     <script src="js/facturas.js"></script>

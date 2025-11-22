@@ -58,6 +58,24 @@
     ]
   },
   {
+    "ContainingType": "Microsoft.AspNetCore.Builder.GetNextOrderIdController",
+    "Method": "GetNextOrderId",
+    "RelativePath": "GetNextOrderId",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "Microsoft.AspNetCore.Builder.GetOrdersController",
     "Method": "GetOrders",
     "RelativePath": "GetOrders",

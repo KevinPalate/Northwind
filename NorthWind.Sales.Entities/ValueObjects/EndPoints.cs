@@ -8,4 +8,5 @@ public class EndPoints
     public const string GetCustomers = $"/{nameof(GetCustomers)}";
     public const string GetProducts = $"/{nameof(GetProducts)}";
     public const string GetOrders = $"/{nameof(GetOrders)}";
+    public const string GetNextOrderId = $"/{nameof(GetNextOrderId)}";
 }

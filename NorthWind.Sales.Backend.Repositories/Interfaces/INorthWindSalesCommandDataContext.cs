@@ -13,4 +13,6 @@ public interface INorthWindSalesCommandDataContext
     Task AddOrderDetailsAsync(IEnumerable<Entities.OrderDetail> orderDetails);
     // Guardar los cambios en la fuente de datos
     Task SaveChangesAsync();
+
+    Task<int> GetNextOrderIdAsync();
 }

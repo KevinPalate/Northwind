@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{D94254AC-673E-40FC-9730-FD54C82840DE}|NorthWind.FrontEnd\\NorthWind.FrontEnd.csproj|c:\\users\\kdami\\documents\\northwind\\northwind.frontend\\wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{D94254AC-673E-40FC-9730-FD54C82840DE}|NorthWind.FrontEnd\\NorthWind.FrontEnd.csproj|solutionrelative:northwind.frontend\\wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94254AC-673E-40FC-9730-FD54C82840DE}|NorthWind.FrontEnd\\NorthWind.FrontEnd.csproj|c:\\users\\kdami\\documents\\northwind\\northwind.frontend\\wwwroot\\js\\facturas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D94254AC-673E-40FC-9730-FD54C82840DE}|NorthWind.FrontEnd\\NorthWind.FrontEnd.csproj|solutionrelative:northwind.frontend\\wwwroot\\js\\facturas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94254AC-673E-40FC-9730-FD54C82840DE}|NorthWind.FrontEnd\\NorthWind.FrontEnd.csproj|c:\\users\\kdami\\documents\\northwind\\northwind.frontend\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D94254AC-673E-40FC-9730-FD54C82840DE}|NorthWind.FrontEnd\\NorthWind.FrontEnd.csproj|solutionrelative:northwind.frontend\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,10 +32,34 @@
               "RelativeDocumentMoniker": "NorthWind.FrontEnd\\wwwroot\\js\\app.js",
               "ToolTip": "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.FrontEnd\\wwwroot\\js\\app.js",
               "RelativeToolTip": "NorthWind.FrontEnd\\wwwroot\\js\\app.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAK4CAAAAAAAAAAAqwMECAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-11-16T23:30:21.3Z",
+              "WhenOpened": "2025-11-19T00:36:39.797Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.FrontEnd\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "NorthWind.FrontEnd\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.FrontEnd\\wwwroot\\index.html",
+              "RelativeToolTip": "NorthWind.FrontEnd\\wwwroot\\index.html",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAUwA8BAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-19T00:36:37.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "facturas.js",
+              "DocumentMoniker": "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.FrontEnd\\wwwroot\\js\\facturas.js",
+              "RelativeDocumentMoniker": "NorthWind.FrontEnd\\wwwroot\\js\\facturas.js",
+              "ToolTip": "C:\\Users\\kdami\\Documents\\Northwind\\NorthWind.FrontEnd\\wwwroot\\js\\facturas.js",
+              "RelativeToolTip": "NorthWind.FrontEnd\\wwwroot\\js\\facturas.js",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAiwLEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-19T01:08:50.457Z"
             }
           ]
         }
